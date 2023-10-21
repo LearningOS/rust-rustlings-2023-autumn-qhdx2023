@@ -22,7 +22,7 @@ fn main() {
     println!(r#" | '__| | | / __| __| | | '_ \ / _` / __| "#);
     println!(r#" | |  | |_| \__ \ |_| | | | | | (_| \__ \ "#);
     println!(r#" |_|   \__,_|___/\__|_|_|_| |_|\__, |___/ "#);
-    println!(r#"                               |___/      "#);
+    println!(r#"     Ayana-chan here ~         |___/      "#);
     println!();
     println!("This exercise compiles successfully. The remaining exercises contain a compiler");
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
